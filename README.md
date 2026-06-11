@@ -89,17 +89,17 @@ LANGUAGES:
 <br><br>
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=gabrielrangelsilva250-spec&label=VISITORS&color=00FF99&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=shinnkerneel&label=VISITORS&color=00FF99&style=for-the-badge"/>
 
 <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielrangelsilva250-spec&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shinnkerneel&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielrangelsilva250-spec&theme=chartreuse-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shinnkerneel&theme=chartreuse-dark&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielrangelsilva250-spec&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shinnkerneel&theme=react-dark&hide_border=true"/>
 
 </div>
 
