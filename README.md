@@ -17,13 +17,18 @@ Apesar da minha área de formação atual, meu verdadeiro foco e paixão estão 
 * 🐧 GNU/Linux como sistema principal
 * 🎯 Objetivo: Engenharia de Computação (EESC-USP) / Relocação para o Canadá
 
-## ⚙️ Tecnologias
-
-* ☕ C#
-* 🐍 Python (Django & FastAPI)
-* ⚡ Bash / Terminal Linux
-* 🌐 HTML, CSS, JavaScript & React
-* 🛠️ Redes (Preparação para CCNA)
+<div>
+<h2 align="center"> 🔎Knowledge📖 </h2>
+</div>
+<div align = "center">
+<p align = "justify">Interests and Passions. <br></p>
+<p align = "center">
+     <a href="https://github.com/EchoKuroi">
+        <img style="margin: 10px;" src="https://skillicons.dev/icons?i=html,css,js,react,cs,py,django,fastapi,bash,linux,arch,git&perline=6" alt="My Skills"/> 
+    </a>
+</p>
+</div>
+<br>
 
 ## 📊 GitHub
 
@@ -50,28 +55,17 @@ Apesar da minha área de formação atual, meu verdadeiro foco e paixão estão 
 * Fundamentos e arquitetura de Redes (Cisco / CCNA)
 * Estruturas de dados e lógica computacional
 
-## 🛠️ Ferramentas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-2C2F33?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
-
 ## 🔗 Contato
 
 <p align="center">
-  <a href="https://github.com/EchoKuroi"><img src="https://img.shields.io/badge/Follow%20Me-00FF00?style=for-the-badge&logo=github&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/gabriel-rangel-a65bab2b0" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:gabrielrangelsilva250@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
+## 📈 Contador de Visitas
+
+<p align="center">
+  <img src="https://count.getloli.com/@EchoKuroi?name=EchoKuroi&theme=rule34" alt="EchoKuroi Visits" />
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/b9/5b/17/b95b173915ab31781ca6ec353b83ab85.gif" width="200" />
-  <br>
-  <b>Obrigado pela visita!</b>
-</p>
