@@ -4,31 +4,37 @@
   <img src="https://github.com/EchoKuroi.png?size=180" alt="EchoKuroi avatar" />
 </p>
 
-## 👋 Sobre mim
+👋 Sobre mim
 
-Sou **G. Rangel Silva**, estudante do 3º semestre de **Tecnólogo em Segurança Cibernética**.
-Apesar da minha área de formação atual, meu verdadeiro foco e paixão estão no **Desenvolvimento Backend**. Gosto de entender como os sistemas funcionam por trás dos panos, desenvolver APIs robustas, trabalhar no ecossistema **GNU/Linux** (especialmente Arch Linux) e aplicar meus conhecimentos em redes na arquitetura de software.
+Olá! Eu sou **EchoKuroi**. Atualmente sou estudante do 3º semestre de **Segurança Cibernética** com foco total em **Red Teaming (Pentest)**. Além dos estudos de segurança ofensiva e fundamentos de redes de computadores, também desenvolvo projetos aplicando conhecimentos em Frontend e Backend.
 
-## 🧑‍💻 Perfil
+## 🧑‍💻 Perfil & Preferências
 
-* 📍 Brasil
-* 🎓 Segurança Cibernética (3º Semestre)
-* 💻 Foco em Desenvolvimento Backend
-* 🐧 GNU/Linux como sistema principal
-* 🎯 Objetivo: Engenharia de Computação (EESC-USP) / Relocação para o Canadá
+* 🎓 **Status:** Estudante de Cybersegurança (3º Semestre)
+* 🎯 **Foco:** Red Teaming / Pentesting & Desenvolvimento
+* 🌐 **Idiomas:** Português (Nativo) | Inglês (Básico)
+* 🎮 **Games:** RPG / Souls-Like e FPS
+* 📚 **Livros:** Livros Psicológicos e Mangás
+* 🎯 **Hobbies:** Assistir animes, ler mangá e jogar
 
 <div>
-<h2 align="center"> 🔎Knowledge📖 </h2>
+<h2 align="center"> 🔎Knowledge & Skills📖 </h2>
 </div>
-<div align = "center">
-<p align = "justify">Interests and Passions. <br></p>
-<p align = "center">
+<div align="center">
+<p align="justify">Interests and Passions.<br></p>
+<p align="center">
      <a href="https://github.com/EchoKuroi">
         <img style="margin: 10px;" src="https://skillicons.dev/icons?i=html,css,js,react,cs,py,django,fastapi,bash,linux,arch,git&perline=6" alt="My Skills"/> 
     </a>
 </p>
 </div>
 <br>
+
+## 🛡️ Certificações Almejadas
+
+* 🔒 **OSCP** (Offensive Security Certified Professional)
+* 🌐 **CCNA** (Cisco Certified Network Associate)
+* 🐧 **LPI** (Linux Professional Institute)
 
 ## 📊 GitHub
 
@@ -47,13 +53,6 @@ Apesar da minha área de formação atual, meu verdadeiro foco e paixão estão 
 
 * 📖 **[Jujutsu-Wiki](https://github.com/EchoKuroi/Jujutsu-Wiki)**
   Uma wiki interativa dedicada ao universo de Jujutsu Kaisen.
-
-## 📚 Atualmente aprendendo
-
-* Desenvolvimento Backend Avançado e APIs RESTful
-* Administração e customização de sistemas Linux (Arch Linux)
-* Fundamentos e arquitetura de Redes (Cisco / CCNA)
-* Estruturas de dados e lógica computacional
 
 ## 🔗 Contato
 
