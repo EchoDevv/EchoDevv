@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1116,50:1F2933,100:374151&height=230&section=header&text=EchoDevv&fontSize=50&fontColor=00FF00&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descSize=18&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1116,50:1F2933,100:374151&height=230&section=header&text=0xShinn&fontSize=50&fontColor=00FF00&animation=twinkling&fontAlignY=32&desc=Backend%20Developer&descSize=18&descAlignY=60" width="100%" />
 
 <p align="center">
-  <img src="https://github.com/EchoDevv.png?size=180" alt="EchoDevv avatar" />
+  <img src="https://github.com/0xShinn-tech.png?size=180" alt="0xShinn avatar" />
 </p>
 
 <h2 align="center">👋 About Me</h2>
 
 <p align="center">
-  Hello! I am <b>EchoKuroi</b>. I am currently a 3rd-semester <b>Cybersecurity</b> student fully focused on <b>Red Teaming (Pentesting)</b>.<br />
-  Besides offensive security studies and computer networking fundamentals, I also develop projects applying Frontend and Backend knowledge.
+  Hello! I am <b>0xShinn</b>. I am currently focusing my path toward a <b>Software Engineering</b> degree, completely pivoting my career into <b>Backend Development</b>.<br />
+  I dedicate my studies to building scalable, robust, and efficient server-side systems, specializing in C# (.NET) and Python frameworks.
 </p>
 
 <br />
@@ -16,8 +16,8 @@
 <h2 align="center">🧑‍💻 Profile & Preferences</h2>
 
 <p align="center">
-  🎓 <b>Status:</b> Cybersecurity Student (3rd Semester)<br />
-  🎯 <b>Focus:</b> Red Teaming / Pentesting & Development<br />
+  🎓 <b>Status:</b> Software Engineering Student<br />
+  🎯 <b>Focus:</b> Backend Development (C# / .NET & Python)<br />
   🌐 <b>Languages:</b> Portuguese (Native) | English (Basic)<br />
   🎮 <b>Games:</b> RPG / Souls-Like and FPS<br />
   📚 <b>Books:</b> Psychological Books and Manga<br />
@@ -29,20 +29,10 @@
 <h2 align="center">🔎 Knowledge & Skills 📖</h2>
 
 <p align="center">
-  Interests and Passions.<br /><br />
-  <a href="https://github.com/EchoKuroi">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,cs,py,django,fastapi,bash,git&perline=5" alt="My Skills"/> 
+  Interests and Tech Stack.<br /><br />
+  <a href="https://github.com/0xShinn">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,django,fastapi,git,bash,html,css,js" alt="My Skills"/> 
   </a>
-</p>
-
-<br />
-
-<h2 align="center">🛡️ Target Certifications</h2>
-
-<p align="center">
-  🔒 <b>OSCP</b> (Offensive Security Certified Professional)<br />
-  🌐 <b>CCNA</b> (Cisco Certified Network Associate)<br />
-  🐧 <b>LPI</b> (Linux Professional Institute)
 </p>
 
 <br />
@@ -50,8 +40,8 @@
 <h2 align="center">📊 GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EchoKuroi&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EchoKuroi&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xShinn&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xShinn&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
 
 <br />
@@ -59,17 +49,17 @@
 <h2 align="center">📦 Featured Projects</h2>
 
 <p align="center">
-  🐍 <b><a href="https://github.com/EchoKuroi/Snake-Game">Snake-Game</a></b><br />
+  🐍 <b><a href="https://github.com/0xShinn/Snake-Game">Snake-Game</a></b><br />
   Development of the classic snake game for logic improvement.
 </p>
 
 <p align="center">
-  🏓 <b><a href="https://github.com/EchoKuroi/Pong-Game">Pong-Game</a></b><br />
+  🏓 <b><a href="https://github.com/0xShinn/Pong-Game">Pong-Game</a></b><br />
   Recreation of the Pong game focused on programming fundamentals.
 </p>
 
 <p align="center">
-  📖 <b><a href="https://github.com/EchoKuroi/Jujutsu-Wiki">Jujutsu-Wiki</a></b><br />
+  📖 <b><a href="https://github.com/0xShinn/Jujutsu-Wiki">Jujutsu-Wiki</a></b><br />
   An interactive wiki dedicated to the Jujutsu Kaisen universe.
 </p>
 
@@ -87,7 +77,7 @@
 <h2 align="center">📈 Visitor Counter</h2>
 
 <p align="center">
-  <img src="https://m.h4ck.org.cn/@booru-r6gdrawfriends?name=booru-r6gdrawfriends&theme=booru-r6gdrawfriends&padding=10&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="EchoKuroi Visits" />
+  <img src="https://m.h4ck.org.cn/@0xShinn?name=0xShinn&theme=booru-r6gdrawfriends&padding=10&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="0xShinn Visits" />
 </p>
 
 <br />
