@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1116,50:1F2933,100:374151&height=230&section=header&text=EchoKuroi&fontSize=50&fontColor=00FF00&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Student%20|%20Backend%20Developer%20%20&descSize=18&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1116,50:1F2933,100:374151&height=230&section=header&text=EchoDev&fontSize=50&fontColor=00FF00&animation=twinkling&fontAlignY=32&desc=%20BFull Stack%20Developer%20%20&descSize=18&descAlignY=60" width="100%" />
 
 <p align="center">
   <img src="https://github.com/EchoKuroi.png?size=180" alt="EchoKuroi avatar" />
